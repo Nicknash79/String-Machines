@@ -1,2 +1,23 @@
 # String-Machines
 Codefundo
+PREDICTION OF THE NATURAL DISASTERS
+ABSTRACT:
+The natural disasters(NDs) like earthquake (EQ), tsunami (TSU), flood(FL), volcanic eruption(VE) can be monitored by the use of fractals. 
+The Mandelbrot fractal used to model the coastline (at the beginning), shall be employed to handle the patterns that help in predicting the 
+NDs. Seismic Zonation and enhanced thermal profile monitoring of the volcanoes shall be used to aid in the prediction of the volcanic 
+eruption. Enhanced weather monitoring systems with complex prediction patterns associated with the temperature changes in the surface of 
+the volcanoes for example can be linked for better prediction of volcanic eruptions. We are going to employ Microsoft Azure for deploying 
+certain apps (each for certain ND (discrete due to different factors affecting different NDs)) that monitor the respective parameters that 
+help in predicting the NDs. In case of VEs, the electrical and magnetic activities (fields) of the volcano are monitored from the app which 
+monitors the parameters of temperature, magnetic flux density, electrical field intensity continuously and predicts the possibility of VE. 
+In case of the earthquake the seismic zonation and the use of fractals of the region shall be fed into the map and other time dependent 
+(time varying) parameters shall be monitored by the app and it predicts the possibility of the earthquake. All of the data acquired from 
+the app will be stored and computed using the Microsoft Azure Cloud Platform (PaaS) and the computation in the same. The way to detect the 
+tsunami, hurricane can be from the sound pressure levels, humidity, the wind speed forecasting from the advanced weather forecasting, 
+electrical and magnetic flux density changes in the earth that causes these disasters. The way to detect landslides is by monitoring the 
+land (soil) quality from the coarseness, cropping patterns (if any), plants and trees root profiles which lead to the holding of the top 
+soil. The soil layer is continuously monitored by advances soil profile monitoring systems that feeds data to the app developed by us. The 
+apps that are going to be developed will also allows us people to know what should be done at that time and what preparations must be done 
+when the period arrives (forecasted). The people will also be aware of the precautions that will lead to safer environment and also 
+prevents mass life claims by the disasters. The flood shall be predicted from the supercell clouds, weather pattern monitoring, humidity 
+changes, SPL, etc.
